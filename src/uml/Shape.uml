@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.company.model.Shape</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.company.model.Shape</node>
+    <node x="289.5" y="892.0">com.company.model.Shape.ShapeDriver</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.model.Shape" target="com.company.model.Shape.ShapeDriver">
+      <point x="237.33333333333337" y="421.0" />
+      <point x="593.3333333333334" y="867.0" />
+      <point x="400.3333333333333" y="867.0" />
+      <point x="44.333333333333314" y="-30.5" />
+    </edge>
+    <edge source="com.company.model.Shape.ShapeDriver" target="com.company.model.Shape">
+      <point x="-44.33333333333337" y="-30.5" />
+      <point x="311.66666666666663" y="867.0" />
+      <point x="118.66666666666666" y="867.0" />
+      <point x="-237.33333333333334" y="421.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7790339157245632" x="356.0" y="476.50000000000006" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
